@@ -1,0 +1,33 @@
+{
+    "name": "iwtkings-icons",
+    "icons": [
+        {
+            "name": "openai",
+            "url": "https://raw.githubusercontent.com/iwtkings/IconLibrary/main/IconSet/openai.png"
+        },
+        {
+            "name": "openai_001",
+            "url": "https://raw.githubusercontent.com/iwtkings/IconLibrary/main/IconSet/openai_001.png"
+        },
+        {
+            "name": "openai_002",
+            "url": "https://raw.githubusercontent.com/iwtkings/IconLibrary/main/IconSet/openai_002.png"
+        },
+        {
+            "name": "all",
+            "url": "https://raw.githubusercontent.com/iwtkings/IconLibrary/main/IconSet/all.png"
+        },
+        {
+            "name": "all_001",
+            "url": "https://raw.githubusercontent.com/iwtkings/IconLibrary/main/IconSet/all_001.png"
+        },
+        {
+            "name": "all_002",
+            "url": "https://raw.githubusercontent.com/iwtkings/IconLibrary/main/IconSet/all_002.png"
+        },
+        {
+            "name": "sina",
+            "url": "https://raw.githubusercontent.com/iwtkings/IconLibrary/main/IconSet/sina.png"
+        }
+    ]
+}
